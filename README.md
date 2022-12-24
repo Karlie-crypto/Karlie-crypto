@@ -1,2 +1,1 @@
-[README.md](https://github.com/Karlie-crypto/Karlie-crypto/files/10298798/README.md)
-![2-most-commit-language](https://user-images.githubusercontent.com/110098940/209442091-0b4bab83-bf1c-43f5-aafd-42a8eec9868a.svg)
+![undraw_programming_re_kg9v](https://user-images.githubusercontent.com/110098940/209442627-2217ecc5-6fe9-4eeb-997e-cc987236a0e9.svg)
