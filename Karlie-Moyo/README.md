@@ -22,12 +22,12 @@
 </p>
 
  
-  <img width="100%" height="300px" src="https://github.com/Karlie/Karlie/blob/master/undraw_programming_re_kg9v.svg" alt="Material Bread logo">
+  <img width="100%" height="300px" src="![image](https://user-images.githubusercontent.com/110098940/236410959-5f01d548-127e-4404-93f9-54c08057424a.png) alt="Material Bread logo">
  
-<!-- ![Software Developer | Full Stack Engineer | Web Developer | Chartered Accountant | Sap Consultant](https://https://github.com/Karlie/Karlie/blob/main/github-image.jpg) -->
+<!-- ![Software Developer | Full Stack Engineer | Web Developer | Chartered Accountant | Sap Consultant | Cyber Security](https://https://github.com/Karlie/Karlie/blob/main/github-image.jpg) -->
 
 <div>
-   <img align="right" width="50%" height="200px" src="https://github.com/Karlie/Karlie/blob/master/undraw_open_source_-1-qxw.svg" alt="Material Bread logo">
+   <img align="right" width="50%" height="200px" src="![image](https://user-images.githubusercontent.com/110098940/236410760-0637bc33-bf43-464b-a60e-385870997449.png) alt="Material Bread logo">
  <p align="left">
 We speak of what one can do here, and me, I develop things from scratch. A breed hard to find I believe. I’ve mastered my languages and decided what I want. I create systems. Both web applications and systems applications. I deal with back-end (processing of data), APIs (data flow back to front) to front-end (UI and user/customer interface).
  I’ve also mastered databases, and various aspects of cloud computing. From Mongo DB Database to AWS server. I started in tech with internships, freelance services, and part-time positions during campus. I have a bit of a diverse job history. I have had some partial positions in help desk, graphics/web design, webapp development, and sysadmin/DevOps. I can help everywhere in the stack. Let's say that I love wearing multiple hats to an extent, well they say “You never know what's coming... "Although my strongest skills are in software engineering and system security, I can work on any similar field or close. A day in my life may consist of: prepping web art, fixing some front-end/back-end bugs, app development, and systems developing and setting up a build or deployment plan and tests when I am lucky.
